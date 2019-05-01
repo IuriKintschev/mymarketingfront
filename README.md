@@ -5,7 +5,7 @@ Utilizar o ReactJS para construir um SPA e para consumir os dados vindos da API
  e listar os cadastros em uma tabela simples. 
 ```
 
-### Tecnolias
+### Tecnologias
 ```
 win10, vscode, react.js, bootstrap4
 ```

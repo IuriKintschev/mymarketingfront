@@ -24,11 +24,11 @@ export default class Form extends Component {
 						<div className="col-3">
 							<input type="text" className="form-control" placeholder="Nome" required />
 						</div>
-						<div className="col-7">
+						<div className="col-5">
 							<input type="email" className="form-control" placeholder="Email" required />
 						</div>
 						<div className="col">
-							<input type="text" className="form-control" placeholder="Idade" required />
+							<input type="text" className="form-control" placeholder="Telefone" required />
 						</div>
 					</div>
 					<div className="mt-3 d-flex justify-content-end">

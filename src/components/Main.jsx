@@ -42,7 +42,11 @@ export default class Main extends Component {
 										<td>{user.nome}</td>
 										<td>{user.email}</td>
 										<td>{user.telefone}</td>
-										<td><button className="btn btn-danger"><i className="fas fa-trash"></i></button></td>
+										<td>
+											<button className="btn btn-danger">
+												<i className="fas fa-trash"></i>
+											</button>
+										</td>
 									</tr>
 								</tbody>
 							))}

@@ -32,7 +32,7 @@ export default class Form extends Component {
 						</div>
 					</div>
 					<div className="mt-3 d-flex justify-content-end">
-						<button className="btn btn-sub mx-1"><i class="fas fa-paper-plane"></i></button>
+						<button className="btn btn-sub mx-1"><i className="fas fa-paper-plane"></i></button>
 					</div>
 				</form>
 			</Formulario>
